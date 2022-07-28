@@ -7,9 +7,10 @@
 
 ## 📅 발표순서
 
-매주 발표자 2명
+- 매주 화요일마다 발표
+- 발표자 2명
 
-|      주기  | 1 |  2 |
+|   주기     | 1 |  2 |
 |----------|------|------|
 | 발표자 | [여정민](https://github.com/youngerjesus), [배준호](https://github.com/junhobae999)  | [이정민](https://github.com/hustle-dev), [박승호](https://github.com/joonparkhere-dev) |
 

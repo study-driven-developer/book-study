@@ -1,6 +1,19 @@
 # ☕ book-study
 교양있는 개발자들의 우아한 독서 모임
 
+## 🏃🏻 Kick-Off
+
+2022-08-02 ~
+
+## 발표순서
+
+발표자 2명
+
+|      주기  | 1 |  2 |
+|----------|------|------|
+| 발표자 | [여정민](https://github.com/youngerjesus), [배준호](https://github.com/junhobae999)  | [이정민](https://github.com/hustle-dev), [박승호](https://github.com/joonparkhere-dev) |
+
+
 
 ## 📚 현재 읽고 있는 책
 

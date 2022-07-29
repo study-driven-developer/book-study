@@ -22,7 +22,6 @@
 
 - [이기적 유전자](http://www.yes24.com/Product/Goods/65067259)
 
-
 ### 배준호
 
 - 미정
@@ -37,4 +36,4 @@
 
 ### 이용욱
 
-- 군대에서 책읽기
+- [하품의 언덕](http://www.yes24.com/product/goods/101639934)

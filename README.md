@@ -32,6 +32,7 @@
 
 ### 이정민
 
+- [12가지 인생의 법칙](http://www.yes24.com/Product/Goods/66360714)
 - [차라투스트라는 이렇게 말했다](http://www.yes24.com/Product/Goods/2662031)
 
 ### 이용욱

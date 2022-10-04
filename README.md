@@ -21,6 +21,7 @@
 ### 여정민
 
 - [이기적 유전자](http://www.yes24.com/Product/Goods/65067259)
+- [틀리지 않는법](http://www.yes24.com/Product/Goods/27968732)
 
 ### 배준호
 

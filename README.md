@@ -39,3 +39,7 @@
 ### 이용욱
 
 - [하품의 언덕](http://www.yes24.com/product/goods/101639934)
+
+### 신민승
+
+- [트렌드 코리아 2022](http://www.yes24.com/Product/Goods/103737985)

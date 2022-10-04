@@ -21,6 +21,7 @@
 ### 여정민
 
 - [이기적 유전자](http://www.yes24.com/Product/Goods/65067259)
+- [틀리지 않는법](http://www.yes24.com/Product/Goods/27968732)
 
 ### 배준호
 
@@ -38,3 +39,7 @@
 ### 이용욱
 
 - [하품의 언덕](http://www.yes24.com/product/goods/101639934)
+
+### 신민승
+
+- [트렌드 코리아 2022](http://www.yes24.com/Product/Goods/103737985)

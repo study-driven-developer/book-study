@@ -43,3 +43,10 @@
 ### 신민승
 
 - [트렌드 코리아 2022](http://www.yes24.com/Product/Goods/103737985)
+
+### 정동우
+
+- [궤도의 과학 허세](http://www.yes24.com/Product/Goods/110211255)
+
+
+
